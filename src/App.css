@@ -1,0 +1,71 @@
+.ms-TextField-fieldGroup{
+    border: 1px solid #DDDDDD;
+}
+
+.ms-ComboBox::after{
+    border: 1px solid #DDDDDD;
+}
+.ms-TextField--borderless .ms-TextField-fieldGroup{
+    border: 0;
+}
+
+.ms-BasePicker-text {
+    border: 1px solid #DDDDDD;
+}
+.ms-Nav-link {
+    padding: 0px 8px !important;
+}
+
+.ms-Checkbox-checkbox {
+    border: 1px solid #DDDDDD;
+}
+
+.ant-message {
+    z-index: 9999999 !important;
+}
+
+.row-bold {
+    color: #212121 !important;
+    font-weight: 500;
+}
+
+.row-capitalize {
+    text-transform: capitalize;
+}
+
+.ms-DetailsRow-cell {
+    color: #212121 !important;
+    padding-left: 16px;
+}
+
+.ms-DetailsHeader-cellTitle {
+    padding-left: 16px;
+}
+.ms-Panel-commands {
+    z-index: 9999993 !important;
+}
+
+.ms-FocusZone {
+    padding-top: 0px;
+}
+
+.ms-DetailsList-contentWrapper{
+    background-color: #ffffff;
+}
+
+.ms-TagItem {
+    background-color: #ffffff;
+}
+
+.ant-steps-item-process .ant-steps-item-container .ant-steps-item-icon {
+    background-color: #0358A7 !important;
+    border-color: #0358A7 !important; 
+}
+
+.ant-steps-item-finish .ant-steps-item-icon {
+    border-color: #0358A7 !important;
+}
+
+.ant-steps-item-finish .ant-steps-item-icon .ant-steps-icon {
+    color: #0358A7 !important;
+}
